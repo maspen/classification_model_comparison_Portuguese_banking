@@ -97,7 +97,7 @@ The ROC plot identifies LogisticRegression as having the most sensitivity or rec
 
 ## More Feature Engineering
 
-In the ![accompanying paper](/CRISP-DM-BANK.pdf), we are told that the data set includes `Sex` and that the ration of male and female is who did and did not receive the proportion is negligible:
+In the [accompanying paper](/CRISP-DM-BANK.pdf), we are told that the data set includes `Sex` and that the ration of male and female is who did and did not receive the proportion is negligible:
 
 ![Male to Female Promotions](/images/sex-male-to-female.jpg)
 
